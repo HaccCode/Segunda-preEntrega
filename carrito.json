@@ -1,0 +1,19 @@
+[
+  {
+    "id": "c1",
+    "products": [
+      {
+        "product": "1",
+        "quantity": 2
+      },
+      {
+        "product": "2",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": "f767f46a-1092-4021-b807-84014cd1c487",
+    "products": []
+  }
+]
